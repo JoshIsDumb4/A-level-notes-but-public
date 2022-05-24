@@ -1,0 +1,5 @@
+[[4.1 Alkanes#4 1 2 Reactions of Alkanes with Halogens Radical Substitution|Free Radical Substitution]]  
+[[4.2 Alkenes#^8f0f3a|Electrophilic Addition]]  
+[[4.4 Alcohols#4 4 3 Substitution Reactions|Nucelophilic Substitution]]  
+[[6.1 Aromatic Compounds#Electrophilic Substitution Mechanism|Electrophilic Substitution]]  
+[[6.2 Carbonyls#Nucleophilic Addition|Nucleophilic Addition]]

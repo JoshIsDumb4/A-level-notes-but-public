@@ -1,0 +1,11 @@
+ -   Performances had to be recorded in one take
+-   Multiple takes taken and the best one would be used
+	-   Signals mixed live, processing added and then recorded to tape
+-   2 tracks meant that stereo was technically possible, but it wasn't used because consumers didn't have the technology to have things in stereo
+-   Any effects added would have to be added to the entire song -> very little post processing available
+	-   Reverb chambers were used to create reverb (small room with two mics and a speaker)
+-   Channel 1 would be used for the vocal and Channel 2 for the rest of the song, allowing a sound engineer to alter the volume of the vocal.
+-   Very hard to edit -> physically cutting the tape
+-   This meant that any edits could not be undone.
+-   Expensive
+-   Time consuming

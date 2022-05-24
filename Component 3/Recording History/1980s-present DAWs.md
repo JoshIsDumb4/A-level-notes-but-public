@@ -1,0 +1,14 @@
+-   Developed from early audio and MIDI manipulation software
+-   Originally limited by processing power and was not affordable
+-   Over time, software gradually began to incorporate studio hardware, e.g. Dynamics processing
+
+-   Technology has become smaller, cheaper and more accessible - it has changed the way we record music
+-   Theoretically anyone can now access studio equipment and release their music
+-   Producers and musicians now have access to almost infinite numbers of tracks and limitless recording time
+-   This encourages people to be more experimental
+-   Overdubs can be repeated multiple times until correct
+-   Musicians can play all the parts at home themselves without the need for other musicians
+-   DAWs are currently evolving
+	-   Polyphonic pitch correction
+	-   Single note MIDI controller adjustments
+	-   Timing correction
